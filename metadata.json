@@ -1,0 +1,6 @@
+{
+  "name": "Protocolo Criósfera: Escape Antártida",
+  "description": "Sala de escape de alta complejidad ambientada en una base secreta antártica retro-cyberpunk. Detén la catástrofe climática global.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
